@@ -1,44 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c1e4f978-b3bd-4ae1-84e9-9e1170bce808" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/../../Assignment0/Assignments.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Assignment0/hello/.lift/algs4.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Assignment0/hello/.lift/checkstyle-coursera.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Assignment0/hello/.lift/checkstyle-lift.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Assignment0/hello/.lift/checkstyle-suppressions.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Assignment0/hello/.lift/spotbugs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Assignment0/hello/Algorithms, Part I.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Assignment0/hello/Algorithms, Part I.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Assignment0/hello/HelloGoodBye.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Assignment0/hello/HelloGoodBye.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Assignment0/hello/HelloGoodBye.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Assignment0/hello/HelloWorld.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Assignment0/hello/HelloWorld.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Assignment0/hello/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Assignment0/hello/HelloWorld.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Assignment0/hello/RandomWord.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Assignment0/hello/RandomWord.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Assignment0/hello/loaded-die.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Assignment0/out/production/Assignments/.lift/algs4.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Assignment0/out/production/Assignments/.lift/checkstyle-coursera.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Assignment0/out/production/Assignments/.lift/checkstyle-lift.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Assignment0/out/production/Assignments/.lift/checkstyle-suppressions.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Assignment0/out/production/Assignments/.lift/spotbugs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Assignment0/out/production/Assignments/Algorithms, Part I.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Assignment0/out/production/Assignments/HelloWorld.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Assignment0/out/production/Assignments/WELCOME.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Assignment0/out/production/Assignments/algorithms.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Assignment0/out/production/Assignments/animals.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Assignment0/out/production/Assignments/animals25.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Assignment0/out/production/Assignments/animals8.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Assignment0/out/production/Assignments/biased-coin.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Assignment0/out/production/Assignments/coin.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Assignment0/out/production/Assignments/colors.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Assignment0/out/production/Assignments/die.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Assignment0/out/production/Assignments/dream.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Assignment0/out/production/Assignments/loaded-die.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Assignment0/out/production/Assignments/logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Assignment0/out/production/Assignments/names.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Assignment0/out/production/Assignments/roshambo.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Assignment0/out/production/Assignments/tinyTale.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Assignment0/out/production/Assignments/two-dice.txt" beforeDir="false" />
-    </list>
+    <list default="true" id="c1e4f978-b3bd-4ae1-84e9-9e1170bce808" name="Default" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -160,7 +123,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1694286608630</updated>
-      <workItem from="1694286611798" duration="1660000" />
+      <workItem from="1694286611798" duration="1674000" />
     </task>
     <servers />
   </component>
